@@ -1,5 +1,7 @@
 # 视频字幕提取器
-
+B站视频演示：
+https://www.bilibili.com/video/BV1mXwve3EtT/
+欢迎二次开发
 ## 项目结构
 videototxt/
 ├── readme.txt           # 项目说明文档
