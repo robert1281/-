@@ -1,0 +1,8 @@
+{
+    "project_name": "videototxt",
+    "include_files": ["*.py", "*.txt", "*.md", "*.yml", "*.yaml", "*.json", "*.conf"],
+    "exclude_files": ["__pycache__", "*.pyc", "*.pyo", "*.pyd", ".git", ".idea", ".vscode"],
+    "include_dirs": ["src"],
+    "exclude_dirs": ["venv", "env", "build", "dist", "__pycache__", ".pytest_cache", "project_backups"],
+    "backup_dir": "project_backups"
+} 

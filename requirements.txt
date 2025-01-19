@@ -1,0 +1,22 @@
+--index-url https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple
+--trusted-host mirrors.tuna.tsinghua.edu.cn
+
+# UI
+PyQt5>=5.15.0
+PyQt5-sip>=12.11.0
+
+# Video Processing
+moviepy==1.0.3
+decorator>=4.0.11
+imageio>=2.5
+imageio-ffmpeg>=0.4.4
+proglog<=1.0.0
+
+# ML Dependencies
+numpy>=1.24.0
+tqdm
+more-itertools
+tiktoken>=0.3.1
+regex>=2022.1.18
+requests
+ffmpeg-python>=0.2.0
